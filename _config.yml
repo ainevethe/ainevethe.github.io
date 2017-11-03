@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Coffee and Code
 header-img: img/home-bg.png
 email: aine3d@gmail.com
 copyright_name: ainevethe
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Coding Journey Blog 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: SofiaCelen
 github_username:  ainevethe
